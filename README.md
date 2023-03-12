@@ -5,7 +5,7 @@
 ## I'm a Frontend Developer!!
 - 🌱 I’m currently making myself better 🤣
 - 👯 I’m looking to collaborate with developers
-- 🥅 2022 Goals: Contribute Open Source projects
+- 🥅 2023 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love to play games
 
 
