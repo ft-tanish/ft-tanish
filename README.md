@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/tanish-chaurasia-92a0731aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_nishant" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ft.tanish/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_nishant" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tanish-chaurasia-92a0731aa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tanish" height="30" width="40" /></a>
+<a href="https://www.instagram.com/banaras_to_bangalore/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tanish" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
